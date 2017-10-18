@@ -1,0 +1,1 @@
+这个模板是在ViewPagerWithTabActivity的基础上更改的。本地测试没有通过，代码参考就好
